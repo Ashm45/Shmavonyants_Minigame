@@ -1,0 +1,14 @@
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\obj\Debug\net9.0\Shmavonyants_Minigame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\obj\Debug\net9.0\Shmavonyants_Minigame.AssemblyInfoInputs.cache
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\obj\Debug\net9.0\Shmavonyants_Minigame.AssemblyInfo.cs
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\obj\Debug\net9.0\Shmavonyants_Minigame.csproj.CoreCompileInputs.cache
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\bin\Debug\net9.0\Shmavonyants_Minigame.exe
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\bin\Debug\net9.0\Shmavonyants_Minigame.deps.json
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\bin\Debug\net9.0\Shmavonyants_Minigame.runtimeconfig.json
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\bin\Debug\net9.0\Shmavonyants_Minigame.dll
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\bin\Debug\net9.0\Shmavonyants_Minigame.pdb
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\obj\Debug\net9.0\Shmavonyants_Minigame.dll
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\obj\Debug\net9.0\refint\Shmavonyants_Minigame.dll
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\obj\Debug\net9.0\Shmavonyants_Minigame.pdb
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\obj\Debug\net9.0\Shmavonyants_Minigame.genruntimeconfig.cache
+C:\Users\ashma\source\repos\Shmavonyants_Minigame\Shmavonyants_Minigame\obj\Debug\net9.0\ref\Shmavonyants_Minigame.dll
